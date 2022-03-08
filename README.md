@@ -2,7 +2,7 @@
 
 ## Application Demo
 
-![alt text](images/application_demo.gif)
+![alt text](images/application_demo.png)
 
 This application contains a simple business card application. Contains buttons that directs the user to Linkedin and Github sites. You can use it as a template for your own. Feel free to download and use it as a template!
 
